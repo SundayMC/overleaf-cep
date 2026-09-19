@@ -16,9 +16,9 @@ import { useUserContext } from '@/shared/context/user-context'
 export const ReviewPanelResolvedThread: FC<{
   id: ThreadId
   comment: Change<CommentOperation>
-  docName: string
   docId: string
-}> = ({ id, comment, docName, docId }) => {
+  docName: string
+}> = ({ id, comment, docId, docName }) => {
   const { t } = useTranslation()
   const { reopenThread, deleteThread } = useThreadsActionsContext()
   const [processing, setProcessing] = useState(false)

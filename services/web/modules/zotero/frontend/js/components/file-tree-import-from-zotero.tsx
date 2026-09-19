@@ -9,7 +9,7 @@ import ErrorMessage from '@/features/file-tree/components/file-tree-create/error
 import OLFormGroup from '@/shared/components/ol/ol-form-group'
 import OLFormLabel from '@/shared/components/ol/ol-form-label'
 import OLFormSelect from '@/shared/components/ol/ol-form-select'
-import OLNotification from '@/shared/components/ol/ol-notification'
+import Notification from '@/shared/components/notification'
 
 type ZoteroGroup = {
   id: string
