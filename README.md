@@ -81,7 +81,8 @@ folder are added.
 ## Authors
 
 [The Overleaf Team](https://www.overleaf.com/about)\
-[yu-i-i](https://github.com/yu-i-i), [davrot](https://github.com/davrot) — CE extensions; references to adapted code are listed in [`CREDITS`](CREDITS.md)
+[yu-i-i](https://github.com/yu-i-i), [davrot](https://github.com/davrot) — CE extensions; references to adapted code are listed in [`CREDITS`](CREDITS.md)\
+[SundayMC](https://github.com/SundayMC) — updates to the latest Overleaf CE releases
 
 ## License
 
